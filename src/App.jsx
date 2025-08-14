@@ -1,11 +1,12 @@
 import './App.css'
+import Board from "./components/Board"
 
 function App() {
 
 
   return (
     <>
-      <h1>This is a heading</h1>
+      <Board />
     </>
   )
 }
